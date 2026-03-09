@@ -1,0 +1,39 @@
+name: tthakkr_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  bloc: ^9.2.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+  flutter_qiblah: ^3.2.0
+  flutter_svg: ^2.2.4
+  geolocator: ^14.0.2
+  go_router: ^17.1.0
+  intl: ^0.20.2
+  meta: ^1.17.0
+  muslim_data_flutter: ^1.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+
+  fonts:
+    - family: dmSans
+      fonts:
+        - asset: assets\fonts\DMSans-Italic-VariableFont_opsz,wght.ttf
+        - asset: assets\fonts\DMSans-VariableFont_opsz,wght.ttf
+    - family: CustomIcons
+      fonts:
+        - asset: assets\fonts/CustomIcons.ttf
