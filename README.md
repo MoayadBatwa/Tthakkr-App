@@ -28,11 +28,11 @@ This app is structured as a multi-feature mobile application with a bottom navig
 - Uses a reusable card UI component
 
 ## App Screens:
-<img width="720" height="1300" alt="Simulator Screenshot - iPhone 17 - 2026-09-17 at 21 22 52" src="https://github.com/user-attachments/assets/7d98d60d-1902-4a45-9ba7-a658638e8e31" />
-<img width="720" height="1300" alt="Simulator Screenshot - iPhone 17 - 2026-09-17 at 21 21 59" src="https://github.com/user-attachments/assets/5cae2dda-aeec-45d5-bf68-58f6b832c17e" />
-<img width="720" height="1300" alt="Simulator Screenshot - iPhone 17 - 2026-09-17 at 21 21 49" src="https://github.com/user-attachments/assets/2a764372-50ab-414f-af9b-b4049efe43b4" />
-<img width="720" height="1300" alt="Simulator Screenshot - iPhone 17 - 2026-09-17 at 21 21 43" src="https://github.com/user-attachments/assets/e4915165-3e13-48a4-9cd4-eae62196083f" />
-<img width="720" height="1300" alt="Screenshot_1789750924" src="https://github.com/user-attachments/assets/f555d54e-41c9-4b9b-844a-9c720589cf6c" />
+<img width="360" height="650" alt="Simulator Screenshot - iPhone 17 - 2026-09-17 at 21 22 52" src="https://github.com/user-attachments/assets/7d98d60d-1902-4a45-9ba7-a658638e8e31" />
+<img width="360" height="650" alt="Simulator Screenshot - iPhone 17 - 2026-09-17 at 21 21 59" src="https://github.com/user-attachments/assets/5cae2dda-aeec-45d5-bf68-58f6b832c17e" />
+<img width="360" height="650" alt="Simulator Screenshot - iPhone 17 - 2026-09-17 at 21 21 49" src="https://github.com/user-attachments/assets/2a764372-50ab-414f-af9b-b4049efe43b4" />
+<img width="360" height="650" alt="Simulator Screenshot - iPhone 17 - 2026-09-17 at 21 21 43" src="https://github.com/user-attachments/assets/e4915165-3e13-48a4-9cd4-eae62196083f" />
+<img width="360" height="650" alt="Screenshot_1789750924" src="https://github.com/user-attachments/assets/f555d54e-41c9-4b9b-844a-9c720589cf6c" />
 
 
 ## App Structure
