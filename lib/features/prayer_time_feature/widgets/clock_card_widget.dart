@@ -36,7 +36,6 @@ class ClockCardWidget extends StatelessWidget {
               DateFormat('E dd MMMM, yyyy').format(DateTime.now()),
               style: TextStyle(fontSize: 20),
             ),
-            Text('Next Pray is: ', style: TextStyle(fontSize: 15)),
           ],
         ),
       ),
